@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Infinity\\Desktop\\Sprite\\Generator\\Generator SVG u HTML\\Generator SVG u HTML\\Generator SVG u HTML.csproj",
+      "projectUniqueName": "C:\\Users\\Infinity\\Desktop\\New folder\\Generator SVG u HTML\\Generator SVG u HTML.csproj",
       "projectName": "Generator SVG u HTML",
-      "projectPath": "C:\\Users\\Infinity\\Desktop\\Sprite\\Generator\\Generator SVG u HTML\\Generator SVG u HTML\\Generator SVG u HTML.csproj",
+      "projectPath": "C:\\Users\\Infinity\\Desktop\\New folder\\Generator SVG u HTML\\Generator SVG u HTML.csproj",
       "packagesPath": "C:\\Users\\Infinity\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Infinity\\Desktop\\Sprite\\Generator\\Generator SVG u HTML\\Generator SVG u HTML\\obj\\",
+      "outputPath": "C:\\Users\\Infinity\\Desktop\\New folder\\Generator SVG u HTML\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Infinity\\AppData\\Roaming\\NuGet\\NuGet.Config",

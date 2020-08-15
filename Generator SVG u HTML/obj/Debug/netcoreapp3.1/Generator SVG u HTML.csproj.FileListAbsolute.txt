@@ -1,0 +1,13 @@
+C:\Users\Infinity\Desktop\Sprite\Generator\Generator SVG u HTML\Generator SVG u HTML\bin\Debug\netcoreapp3.1\Generator SVG u HTML.exe
+C:\Users\Infinity\Desktop\Sprite\Generator\Generator SVG u HTML\Generator SVG u HTML\bin\Debug\netcoreapp3.1\Generator SVG u HTML.deps.json
+C:\Users\Infinity\Desktop\Sprite\Generator\Generator SVG u HTML\Generator SVG u HTML\bin\Debug\netcoreapp3.1\Generator SVG u HTML.runtimeconfig.json
+C:\Users\Infinity\Desktop\Sprite\Generator\Generator SVG u HTML\Generator SVG u HTML\bin\Debug\netcoreapp3.1\Generator SVG u HTML.runtimeconfig.dev.json
+C:\Users\Infinity\Desktop\Sprite\Generator\Generator SVG u HTML\Generator SVG u HTML\bin\Debug\netcoreapp3.1\Generator SVG u HTML.dll
+C:\Users\Infinity\Desktop\Sprite\Generator\Generator SVG u HTML\Generator SVG u HTML\bin\Debug\netcoreapp3.1\Generator SVG u HTML.pdb
+C:\Users\Infinity\Desktop\Sprite\Generator\Generator SVG u HTML\Generator SVG u HTML\obj\Debug\netcoreapp3.1\Generator SVG u HTML.csprojAssemblyReference.cache
+C:\Users\Infinity\Desktop\Sprite\Generator\Generator SVG u HTML\Generator SVG u HTML\obj\Debug\netcoreapp3.1\Generator SVG u HTML.AssemblyInfoInputs.cache
+C:\Users\Infinity\Desktop\Sprite\Generator\Generator SVG u HTML\Generator SVG u HTML\obj\Debug\netcoreapp3.1\Generator SVG u HTML.AssemblyInfo.cs
+C:\Users\Infinity\Desktop\Sprite\Generator\Generator SVG u HTML\Generator SVG u HTML\obj\Debug\netcoreapp3.1\Generator SVG u HTML.csproj.CoreCompileInputs.cache
+C:\Users\Infinity\Desktop\Sprite\Generator\Generator SVG u HTML\Generator SVG u HTML\obj\Debug\netcoreapp3.1\Generator SVG u HTML.dll
+C:\Users\Infinity\Desktop\Sprite\Generator\Generator SVG u HTML\Generator SVG u HTML\obj\Debug\netcoreapp3.1\Generator SVG u HTML.pdb
+C:\Users\Infinity\Desktop\Sprite\Generator\Generator SVG u HTML\Generator SVG u HTML\obj\Debug\netcoreapp3.1\Generator SVG u HTML.genruntimeconfig.cache
